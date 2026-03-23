@@ -1,0 +1,18 @@
+# Cartelle di compilazione (pesanti e inutili su GitHub)
+Debug/
+Release/
+
+# File generati dal compilatore
+*.elf
+*.list
+*.map
+*.o
+*.su
+*.d
+
+# Impostazioni locali dell'IDE (opzionale, meglio non caricarle)
+.settings/
+
+# File temporanei di sistema
+.DS_Store
+Thumbs.db
